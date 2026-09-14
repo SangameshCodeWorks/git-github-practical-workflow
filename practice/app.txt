@@ -1,0 +1,5 @@
+Git & GitHub Practical Workflow
+
+This file is used to practice Git version control,
+branching, commits, merging, pull requests,
+and collaboration workflows.
