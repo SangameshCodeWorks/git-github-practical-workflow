@@ -12,3 +12,13 @@ This project demonstrates a practical Git and GitHub workflow.
 6. Push the branch to GitHub
 7. Create a Pull Request
 8. Review and merge the changes
+
+## Git Concepts Practiced
+
+- Working directory
+- Staging area
+- Commits
+- Branching
+- Pull Requests
+- Remote repositories
+- GitHub collaboration
