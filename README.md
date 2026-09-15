@@ -1,6 +1,6 @@
 ## Git Workflow
 
-This project demonstrates a practical Git and GitHub workflow.
+This project demonstrates a practical Git, GitHub, and collaboration workflow.
 
 ### Workflow
 
