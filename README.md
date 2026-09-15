@@ -1,22 +1,53 @@
-## Git Workflow
-This project demonstrates a practical Git, GitHub, development, and collaboration workflow.
-### Workflow
+# Git & GitHub Practical Workflow
 
-1. Create or clone a repository
-2. Create a feature branch
-3. Make changes
-4. Stage changes using `git add`
-5. Commit changes using `git commit`
-6. Push the branch to GitHub
-7. Create a Pull Request
-8. Review and merge the changes
+A hands-on project created to practice Git and GitHub workflows used in real software development and open-source collaboration.
 
-## Git Concepts Practiced
+## 🎯 Objective
 
-- Working directory
-- Staging area
-- Commits
-- Branching
+The goal of this project is to understand Git and GitHub through practical workflows rather than only memorizing commands.
+
+## 🛠️ Git Concepts Practiced
+
+- Git repository initialization and cloning
+- Working directory and staging area
+- `git status`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
+- `git fetch`
+- `git diff`
+- `git log`
+- Branch creation and switching
+- Branch deletion
+- Branch merging
+- Merge conflict resolution
 - Pull Requests
-- Remote repositories
-- GitHub collaboration
+- Code review workflow
+- GitHub forks
+- `origin` and `upstream` remotes
+- Fork-based contribution workflow
+- Commit history and merge history
+
+## 🔄 Development Workflow
+
+```text
+Create / Clone Repository
+        ↓
+Create Feature Branch
+        ↓
+Make Changes
+        ↓
+git add
+        ↓
+git commit
+        ↓
+git push
+        ↓
+Pull Request
+        ↓
+Code Review
+        ↓
+Merge
+        ↓
+Update Local Main
