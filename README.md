@@ -1,7 +1,5 @@
 ## Git Workflow
-
-This project demonstrates a practical Git and GitHub development workflow.
-
+This project demonstrates a practical Git, GitHub, development, and collaboration workflow.
 ### Workflow
 
 1. Create or clone a repository
